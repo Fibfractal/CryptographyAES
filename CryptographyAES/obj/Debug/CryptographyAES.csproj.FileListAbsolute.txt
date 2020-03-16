@@ -1,0 +1,19 @@
+C:\Users\Erik\source\repos\CryptographyAES\CryptographyAES\bin\Debug\CryptographyAES.exe.config
+C:\Users\Erik\source\repos\CryptographyAES\CryptographyAES\bin\Debug\CryptographyAES.exe
+C:\Users\Erik\source\repos\CryptographyAES\CryptographyAES\bin\Debug\CryptographyAES.pdb
+C:\Users\Erik\source\repos\CryptographyAES\CryptographyAES\obj\Debug\CryptographyAES.csprojAssemblyReference.cache
+C:\Users\Erik\source\repos\CryptographyAES\CryptographyAES\obj\Debug\CryptographyAES.MainForm.resources
+C:\Users\Erik\source\repos\CryptographyAES\CryptographyAES\obj\Debug\CryptographyAES.Properties.Resources.resources
+C:\Users\Erik\source\repos\CryptographyAES\CryptographyAES\obj\Debug\CryptographyAES.csproj.GenerateResource.cache
+C:\Users\Erik\source\repos\CryptographyAES\CryptographyAES\obj\Debug\CryptographyAES.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\CryptographyAES\CryptographyAES\obj\Debug\CryptographyAES.exe
+C:\Users\Erik\source\repos\CryptographyAES\CryptographyAES\obj\Debug\CryptographyAES.pdb
+C:\Users\bande_000\Desktop\Till GitHub\CryptographyAES\CryptographyAES\bin\Debug\CryptographyAES.exe.config
+C:\Users\bande_000\Desktop\Till GitHub\CryptographyAES\CryptographyAES\bin\Debug\CryptographyAES.exe
+C:\Users\bande_000\Desktop\Till GitHub\CryptographyAES\CryptographyAES\bin\Debug\CryptographyAES.pdb
+C:\Users\bande_000\Desktop\Till GitHub\CryptographyAES\CryptographyAES\obj\Debug\CryptographyAES.csprojAssemblyReference.cache
+C:\Users\bande_000\Desktop\Till GitHub\CryptographyAES\CryptographyAES\obj\Debug\CryptographyAES.MainForm.resources
+C:\Users\bande_000\Desktop\Till GitHub\CryptographyAES\CryptographyAES\obj\Debug\CryptographyAES.Properties.Resources.resources
+C:\Users\bande_000\Desktop\Till GitHub\CryptographyAES\CryptographyAES\obj\Debug\CryptographyAES.csproj.GenerateResource.cache
+C:\Users\bande_000\Desktop\Till GitHub\CryptographyAES\CryptographyAES\obj\Debug\CryptographyAES.exe
+C:\Users\bande_000\Desktop\Till GitHub\CryptographyAES\CryptographyAES\obj\Debug\CryptographyAES.pdb
